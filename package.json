@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "slidev --open",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.20.4",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "gtk-for-web-devs",
+  "devDependencies": {
+    "playwright-chromium": "^1.12.2"
+  }
+}
