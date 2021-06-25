@@ -18,7 +18,7 @@ title: GTK for Web Developers
 layout: center
 ---
 
-<video src="assets/same-but-different.mp4" autoplay loop />
+<video src="/assets/same-but-different.mp4" autoplay loop />
 
 ---
 
@@ -72,7 +72,7 @@ Similar hierarchy, different terms
 
 # Widgets
 
-![A screenshot of Widget Factory, demonstrating numerous GTK widgets](assets/widget-factory-dark.png)
+![A screenshot of Widget Factory, demonstrating numerous GTK widgets](/assets/widget-factory-dark.png)
 
 ---
 
@@ -242,7 +242,7 @@ Hit <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>D</kbd> to launch the inspector.
 
 Hit <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>I</kbd> to inspect the widget under the mouse pointer.
 
-![GTK Inspector](assets/inspector.png)
+![GTK Inspector](/assets/inspector.png)
 
 ---
 
@@ -274,7 +274,7 @@ GTK
 
 https://docs.elementary.io/develop/
 
-![elementary Developer Docs landing page](assets/elementary-dev-docs.png)
+![elementary Developer Docs landing page](/assets/elementary-dev-docs.png)
 
 ---
 
@@ -282,7 +282,7 @@ https://docs.elementary.io/develop/
 
 https://docs.gtk.org/gtk4/css-properties.html
 
-![List of GTK CSS Properties](assets/gtk-css-properties.png)
+![List of GTK CSS Properties](/assets/gtk-css-properties.png)
 
 ---
 
@@ -290,7 +290,7 @@ https://docs.gtk.org/gtk4/css-properties.html
 
 https://wiki.gnome.org/Projects/Vala/Tutorial
 
-![Vala tutorial](assets/vala-tutorial.png)
+![Vala tutorial](/assets/vala-tutorial.png)
 
 ---
 
@@ -298,7 +298,7 @@ https://wiki.gnome.org/Projects/Vala/Tutorial
 
 https://valadoc.org/. Stays crunchy. Even in milk.
 
-![Valadoc home page](assets/valadoc-home.png)
+![Valadoc home page](/assets/valadoc-home.png)
 
 ---
 layout: center
