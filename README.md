@@ -2,7 +2,12 @@
 
 Slides for my [edw](https://edw.elementary.io/) talk, created with [Slidev](https://sli.dev/)
 
-## Running locally
+## View
+
+- [Slides](https://proseandconst.xyz/gtk-for-web-devs/)
+- Video (coming soon)
+
+## Run locally
 
 To start the slide show:
 
