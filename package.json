@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build",
+    "build": "slidev build -o docs --base /gtk-for-web-devs/",
     "export": "slidev export"
   },
   "dependencies": {
